@@ -1,0 +1,24 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.legend {
+  background: rgb(56, 56, 56);
+  color: white;
+  height: 150%;
+  width: 150%;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  text-align: center;
+}
